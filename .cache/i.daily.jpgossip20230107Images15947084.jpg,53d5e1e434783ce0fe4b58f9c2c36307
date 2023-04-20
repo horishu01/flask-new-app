@@ -1,0 +1,18 @@
+status: 301
+connection: close
+content-length: 0
+server: Varnish
+retry-after: 0
+location: https://i.daily.jp/gossip/2023/01/07/Images/15947084.jpg
+accept-ranges: bytes
+date: Tue, 04 Apr 2023 12:12:06 GMT
+via: 1.1 varnish
+x-served-by: cache-tyo11953-TYO
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1680610326.095173,VS0,VE0
+expires: Thu, 04 May 2023 12:12:06 GMT
+cache-control: public
+-x-permanent-redirect-url: https://i.daily.jp/gossip/2023/01/07/Images/15947084.jpg
+content-location: http://i.daily.jp/gossip/2023/01/07/Images/15947084.jpg
+
